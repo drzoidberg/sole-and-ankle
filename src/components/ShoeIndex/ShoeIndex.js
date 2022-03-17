@@ -44,12 +44,11 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: row-reverse;
   justify-content: flex-end;
+  align-items: baseline;
 `
 
 const LeftColumn = styled.div`
   flex: 0 0 332px;
-  position: relative;
-  top: 14px;
 `
 
 const MainColumn = styled.div`
