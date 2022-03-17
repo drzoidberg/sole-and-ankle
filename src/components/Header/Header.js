@@ -34,7 +34,7 @@ const EvenSpace = styled.div`
 `
 
 const MainHeader = styled.div`
-  padding: 0 32px;
+  padding: 0 36px;
   border-bottom: 1px solid ${COLORS.gray[300]};
   display: flex;
   align-items: baseline;
