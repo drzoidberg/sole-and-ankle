@@ -16,10 +16,7 @@ const Link = styled.a`
   color: inherit;
   left: 0;
   text-decoration: none;
-  /* width: 0;
-  position: absolute;
-  left: 32px;
-  min-height: 100%; */
+  width: 0;
   /* margin-right: auto; */
 `
 
